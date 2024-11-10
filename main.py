@@ -129,7 +129,7 @@ if st.sidebar.button("Get Recommendations"):
                     <table class="styled-table">
                         <thead>
                             <tr>
-                                <th>Track Name</th>
+                                <th>Tracks Name</th>
                                 <th>Artists</th>
                                 <th>Album Name</th>
                                 <th>Popularity</th>
